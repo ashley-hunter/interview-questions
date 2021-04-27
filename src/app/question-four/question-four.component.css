@@ -1,0 +1,17 @@
+.container {
+  border: 2px solid #4f9eff;
+  background-color: #b9d8ff;
+  padding: 30px;
+}
+
+.box {
+  border: 2px solid #f02e74;
+  background-color: #fab9d0;
+  padding: 30px;
+}
+
+/* What selector could we use? */
+.replace-this {
+  border: 2px solid #fb9000;
+  background-color: #fee0b9;
+}

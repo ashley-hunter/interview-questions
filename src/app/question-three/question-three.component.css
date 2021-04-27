@@ -1,0 +1,16 @@
+.table {
+  width: 100%;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid #bfbfbf;
+}
+
+/*
+ * Color codes:
+ * Red: #FBA7A7
+ * Gray: #F2F2F2
+ * Blue: #83EAFF
+ */

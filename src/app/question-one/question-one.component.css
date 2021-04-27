@@ -1,0 +1,14 @@
+.outer-container {
+  border: 2px solid #4f9eff;
+  background-color: #b9d8ff;
+  max-width: 583px;
+  height: 253px;
+  width: 100%;
+}
+
+.inner-container {
+  border: 2px solid #ed6eff;
+  background-color: #f5b1ff;
+  width: 239px;
+  height: 75px;
+}
